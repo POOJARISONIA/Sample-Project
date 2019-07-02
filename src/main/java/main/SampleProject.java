@@ -7,9 +7,9 @@ public class SampleProject {
 		String c = "Hello World!";
 		return c;
 	}
-	public static int add(int a,int b) {
+	public static int add(int a,int d) {
 		int c;
-	    c=a+b;
+	    c=a+d;
 		return c;
 	}
 	public static void main(String args[]) {
